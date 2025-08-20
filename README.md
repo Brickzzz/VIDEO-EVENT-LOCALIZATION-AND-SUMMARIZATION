@@ -1,4 +1,4 @@
-REQUIRED DEPENDECIES TO RUN THE PROGRAM EFFICENTLY!!!
+[required dependencies.txt](https://github.com/user-attachments/files/21891417/required.dependencies.txt)
 absl-py==1.2.0
 accelerate==0.19.0
 aiodns==3.0.0
